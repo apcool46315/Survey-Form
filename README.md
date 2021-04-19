@@ -8,3 +8,7 @@ It is simple survey from of a restaurant.This page is the part of a project for 
   <li>HTML</li>
   <li>CSS</li>
   </ul>
+
+# Screenshots 
+![](SS/SS1.png)
+![](SS/SS2.png)
