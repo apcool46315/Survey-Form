@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  background-color: #718eda;
+  color: rgb(2, 5, 44);
+}
+.main {
+  text-align: center;
+  color: #1c1535;
+}
+#title {
+  padding: 10px 10px 20px 10px;
+}
+#description {
+  font-weight: bold;
+}
+#survey-form {
+  padding: 30px;
+  margin: auto;
+  width: 700px;
+  border-radius: 10px;
+  border: 1px solid #0760a8;
+  background-color: #21369180;
+}
+div {
+  padding: 10px;
+}
+input {
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+#name {
+  width: 500px;
+}
+#email {
+  width: 500px;
+}
+#number {
+  width: 500px;
+}
+select {
+  width: 500px;
+  padding: 5px;
+  border-radius: 10px;
+  color: rgb(31, 2, 29);
+  font-size: 15px;
+}
+textarea {
+  border-radius: 10px;
+  width: 300px;
+  margin-top: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+  color: rgb(31, 2, 29);
+  font-size: 15px;
+}
+#submit {
+  border-radius: 10px;
+  color: rgb(31, 2, 29);
+  font-size: 15px;
+  width: 300px;
+  text-align: center;
+  margin-left: 150px;
+}
